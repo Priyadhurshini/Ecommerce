@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@phosphor-icons/react": "^2.0.13",
+    "phosphor-react": "^1.4.1",
+    "react-hook-form": "^7.46.2"
+  },
+  "devDependencies": {
+    "react-router-dom": "^6.16.0"
+  }
+}
